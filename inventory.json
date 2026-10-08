@@ -1,6 +1,6 @@
 {
   "dealership": "Snow Valley Ford Sales",
-  "generated_at": "2026-09-26T12:01:16",
+  "generated_at": "2026-10-08T14:53:04",
   "vehicle_count": 101,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -9,6 +9,7 @@
       "name": "2019 Ford Transit Passenger Wagon XLTin Terrace",
       "vin": "1FBVU4XG0KKA67536",
       "stock": "NUMBER",
+      "trim": "XLTin Terrace",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/used/d88df90ab4e6.html",
       "source_url": "https://www.terracetotemford.ca/used/2019-Ford-Transit_Passenger_Wagon-id14109553.html",
       "dealer_url": "https://www.terracetotemford.ca/used/2019-Ford-Transit_Passenger_Wagon-id14109553.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -18,8 +19,10 @@
       "odometer_km": 101945,
       "year": 2019,
       "make": "Ford",
-      "model": "Transit Passenger Wagon XLTin Terrace",
-      "condition": "used"
+      "model": "Transit",
+      "condition": "used",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2019 Ford Transit Passenger Wagon ",
@@ -34,7 +37,9 @@
       "year": 2019,
       "make": "Ford",
       "model": "Transit Passenger Wagon",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2019 Ford Transit Passenger Wagon ",
@@ -49,13 +54,16 @@
       "year": 2019,
       "make": "Ford",
       "model": "Transit Passenger Wagon",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2019 Honda Civic LXin Terrace",
       "vin": "SHHFK7H30KU303651",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "LXin Terrace",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/used/fdbfaff0985c.html",
       "source_url": "https://www.terracetotemford.ca/used/2019-Honda-Civic-id14365083.html",
       "dealer_url": "https://www.terracetotemford.ca/used/2019-Honda-Civic-id14365083.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -65,8 +73,10 @@
       "odometer_km": 113574,
       "year": 2019,
       "make": "Honda",
-      "model": "Civic LXin Terrace",
-      "condition": "used"
+      "model": "Civic",
+      "condition": "used",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2019 Honda Civic ",
@@ -82,7 +92,9 @@
       "year": 2019,
       "make": "Honda",
       "model": "Civic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2019 Honda Civic ",
@@ -98,12 +110,15 @@
       "year": 2019,
       "make": "Honda",
       "model": "Civic",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2020 Ford F-150 XLTin Terrace",
       "vin": "1FTFW1E51LKE52793",
       "stock": "NUMBER",
+      "trim": "XLTin Terrace",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/used/70c77354b7a9.html",
       "source_url": "https://www.terracetotemford.ca/used/2020-Ford-F_150-id14340385.html",
       "dealer_url": "https://www.terracetotemford.ca/used/2020-Ford-F_150-id14340385.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -113,8 +128,10 @@
       "odometer_km": 48599,
       "year": 2020,
       "make": "Ford",
-      "model": "F-150 XLTin Terrace",
-      "condition": "used"
+      "model": "F-150",
+      "condition": "used",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2020 Ford F-150 ",
@@ -129,7 +146,9 @@
       "year": 2020,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2020 Ford F-150 ",
@@ -144,12 +163,15 @@
       "year": 2020,
       "make": "Ford",
       "model": "F-150",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2021 Ford Escape SEin Terrace",
       "vin": "1FMCU9G65MUA76565",
       "stock": "NUMBER",
+      "trim": "SEin Terrace",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/used/5cae2ddb6792.html",
       "source_url": "https://www.terracetotemford.ca/used/2021-Ford-Escape-id14392140.html",
       "dealer_url": "https://www.terracetotemford.ca/used/2021-Ford-Escape-id14392140.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -159,8 +181,10 @@
       "odometer_km": 57716,
       "year": 2021,
       "make": "Ford",
-      "model": "Escape SEin Terrace",
-      "condition": "used"
+      "model": "Escape",
+      "condition": "used",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2021 Ford Escape ",
@@ -175,7 +199,9 @@
       "year": 2021,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2021 Ford Escape ",
@@ -190,12 +216,15 @@
       "year": 2021,
       "make": "Ford",
       "model": "Escape",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Bronco Big Bendin Terrace",
       "vin": "1FMEE5BPXNLB65750",
       "stock": "NUMBER",
+      "trim": "Big Bendin Terrace",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/used/c336aae1de2f.html",
       "source_url": "https://www.terracetotemford.ca/used/2022-Ford-Bronco-id14327541.html",
       "dealer_url": "https://www.terracetotemford.ca/used/2022-Ford-Bronco-id14327541.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -205,8 +234,10 @@
       "odometer_km": 86663,
       "year": 2022,
       "make": "Ford",
-      "model": "Bronco Big Bendin Terrace",
-      "condition": "used"
+      "model": "Bronco",
+      "condition": "used",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Bronco ",
@@ -221,7 +252,9 @@
       "year": 2022,
       "make": "Ford",
       "model": "Bronco",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Bronco ",
@@ -236,12 +269,15 @@
       "year": 2022,
       "make": "Ford",
       "model": "Bronco",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2022 RAM 1500 Rebelin Terrace",
       "vin": "1C6SRFLT5NN474955",
       "stock": "NUMBER",
+      "trim": "Rebelin Terrace",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/used/4d942066b679.html",
       "source_url": "https://www.terracetotemford.ca/used/2022-RAM-1500-id14266844.html",
       "dealer_url": "https://www.terracetotemford.ca/used/2022-RAM-1500-id14266844.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -251,8 +287,10 @@
       "odometer_km": 51398,
       "year": 2022,
       "make": "RAM",
-      "model": "1500 Rebelin Terrace",
-      "condition": "used"
+      "model": "1500",
+      "condition": "used",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2022 RAM 1500 ",
@@ -267,7 +305,9 @@
       "year": 2022,
       "make": "RAM",
       "model": "1500",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2022 RAM 1500 ",
@@ -282,12 +322,15 @@
       "year": 2022,
       "make": "RAM",
       "model": "1500",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2023 Ford Bronco Sport Basein Terrace",
       "vin": "3FMCR9A68PRD94993",
       "stock": "NUMBER",
+      "trim": "Basein Terrace",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/used/fb28592a2f31.html",
       "source_url": "https://www.terracetotemford.ca/used/2023-Ford-Bronco_Sport-id14210490.html",
       "dealer_url": "https://www.terracetotemford.ca/used/2023-Ford-Bronco_Sport-id14210490.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -297,8 +340,10 @@
       "odometer_km": 81414,
       "year": 2023,
       "make": "Ford",
-      "model": "Bronco Sport Basein Terrace",
-      "condition": "used"
+      "model": "Bronco Sport",
+      "condition": "used",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2023 Ford Bronco Sport ",
@@ -313,7 +358,9 @@
       "year": 2023,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2023 Ford Bronco Sport ",
@@ -328,12 +375,15 @@
       "year": 2023,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2024 Jeep Wrangler Saharain Terrace",
       "vin": "1C4PJXEN9RW181960",
       "stock": "NUMBER",
+      "trim": "Saharain Terrace",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/used/2388aac0259c.html",
       "source_url": "https://www.terracetotemford.ca/used/2024-Jeep-Wrangler-id14266843.html",
       "dealer_url": "https://www.terracetotemford.ca/used/2024-Jeep-Wrangler-id14266843.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -343,8 +393,10 @@
       "odometer_km": 97774,
       "year": 2024,
       "make": "Jeep",
-      "model": "Wrangler Saharain Terrace",
-      "condition": "used"
+      "model": "Wrangler",
+      "condition": "used",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2024 Jeep Wrangler ",
@@ -359,7 +411,9 @@
       "year": 2024,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2024 Jeep Wrangler ",
@@ -374,13 +428,16 @@
       "year": 2024,
       "make": "Jeep",
       "model": "Wrangler",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2025 Honda HR-V Ex-L Naviin Terrace",
       "vin": "3CZRZ2H79SM101249",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Ex-L Naviin Terrace",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/used/97f0274ceda8.html",
       "source_url": "https://www.terracetotemford.ca/used/2025-Honda-HR_V-id14279327.html",
       "dealer_url": "https://www.terracetotemford.ca/used/2025-Honda-HR_V-id14279327.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -390,8 +447,10 @@
       "odometer_km": 42800,
       "year": 2025,
       "make": "Honda",
-      "model": "HR-V Ex-L Naviin Terrace",
-      "condition": "used"
+      "model": "HR-V",
+      "condition": "used",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2025 Honda HR-V ",
@@ -407,7 +466,9 @@
       "year": 2025,
       "make": "Honda",
       "model": "HR-V",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2025 Honda HR-V ",
@@ -423,7 +484,9 @@
       "year": 2025,
       "make": "Honda",
       "model": "HR-V",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco ",
@@ -439,7 +502,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport ",
@@ -455,7 +520,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Escapein Terrace, near Kitimat",
@@ -469,11 +536,14 @@
       "year": 2026,
       "make": "Ford",
       "model": "Escapein Terrace, near Kitimat",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Escape Hybridin Terrace, near Kitimat",
       "stock": "NUMBER",
+      "trim": "Hybridin Terrace",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/used/daffa7a4d2fe.html",
       "source_url": "https://www.terracetotemford.ca/new/2026-Ford-Escape_Hybrid.html",
       "dealer_url": "https://www.terracetotemford.ca/new/2026-Ford-Escape_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -482,12 +552,15 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Escape Hybridin Terrace, near Kitimat",
-      "condition": "used"
+      "model": "Escape",
+      "condition": "used",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Escape PHEVin Terrace, near Kitimat",
       "stock": "NUMBER",
+      "trim": "PHEVin Terrace",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/used/3f6eb138d330.html",
       "source_url": "https://www.terracetotemford.ca/new/2026-Ford-Escape_PHEV.html",
       "dealer_url": "https://www.terracetotemford.ca/new/2026-Ford-Escape_PHEV.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -496,8 +569,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Escape PHEVin Terrace, near Kitimat",
-      "condition": "used"
+      "model": "Escape",
+      "condition": "used",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Expeditionin Terrace, near Kitimat",
@@ -511,7 +586,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Expeditionin Terrace, near Kitimat",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Explorer ",
@@ -527,7 +604,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 ",
@@ -543,7 +622,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "F-150",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Mustangin Terrace, near Kitimat",
@@ -557,11 +638,14 @@
       "year": 2026,
       "make": "Ford",
       "model": "Mustangin Terrace, near Kitimat",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Mustang Convertiblein Terrace, near Kitimat",
       "stock": "NUMBER",
+      "trim": "Convertiblein Terrace",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/used/b33a8c40bbaa.html",
       "source_url": "https://www.terracetotemford.ca/new/2026-Ford-Mustang_Convertible.html",
       "dealer_url": "https://www.terracetotemford.ca/new/2026-Ford-Mustang_Convertible.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -570,8 +654,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Mustang Convertiblein Terrace, near Kitimat",
-      "condition": "used"
+      "model": "Mustang",
+      "condition": "used",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Mustang Mach-E ",
@@ -587,7 +673,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Mustang Mach-E",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Ranger ",
@@ -603,7 +691,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Ranger",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-550 ",
@@ -619,13 +709,16 @@
       "year": 2026,
       "make": "Ford",
       "model": "F-550",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Transit Cargo Van ",
       "vin": "1FTBF6XG4TKA34528",
       "stock": 13330611,
       "color": "White",
+      "trim": "Van",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/used/b034646811b3.html",
       "source_url": "https://www.terracetotemford.ca/new/2026-Ford-Transit_Cargo_Van.html",
       "dealer_url": "https://www.terracetotemford.ca/new/2026-Ford-Transit_Cargo_Van.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -634,8 +727,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Transit Cargo Van",
-      "condition": "used"
+      "model": "Transit Cargo",
+      "condition": "used",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco ",
@@ -651,7 +746,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Sport ",
@@ -667,7 +764,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Bronco Sport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Escapein Terrace, near Kitimat",
@@ -681,11 +780,14 @@
       "year": 2026,
       "make": "Ford",
       "model": "Escapein Terrace, near Kitimat",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Escape Hybridin Terrace, near Kitimat",
       "stock": "NUMBER",
+      "trim": "Hybridin Terrace",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/daffa7a4d2fe.html",
       "source_url": "https://www.terracetotemford.ca/new/2026-Ford-Escape_Hybrid.html",
       "dealer_url": "https://www.terracetotemford.ca/new/2026-Ford-Escape_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -694,12 +796,15 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Escape Hybridin Terrace, near Kitimat",
-      "condition": "new"
+      "model": "Escape",
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Escape PHEVin Terrace, near Kitimat",
       "stock": "NUMBER",
+      "trim": "PHEVin Terrace",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/3f6eb138d330.html",
       "source_url": "https://www.terracetotemford.ca/new/2026-Ford-Escape_PHEV.html",
       "dealer_url": "https://www.terracetotemford.ca/new/2026-Ford-Escape_PHEV.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -708,8 +813,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Escape PHEVin Terrace, near Kitimat",
-      "condition": "new"
+      "model": "Escape",
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Expeditionin Terrace, near Kitimat",
@@ -723,7 +830,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Expeditionin Terrace, near Kitimat",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Explorer ",
@@ -739,7 +848,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 ",
@@ -755,7 +866,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "F-150",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Mustangin Terrace, near Kitimat",
@@ -769,11 +882,14 @@
       "year": 2026,
       "make": "Ford",
       "model": "Mustangin Terrace, near Kitimat",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Mustang Convertiblein Terrace, near Kitimat",
       "stock": "NUMBER",
+      "trim": "Convertiblein Terrace",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/b33a8c40bbaa.html",
       "source_url": "https://www.terracetotemford.ca/new/2026-Ford-Mustang_Convertible.html",
       "dealer_url": "https://www.terracetotemford.ca/new/2026-Ford-Mustang_Convertible.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -782,8 +898,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Mustang Convertiblein Terrace, near Kitimat",
-      "condition": "new"
+      "model": "Mustang",
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Mustang Mach-E ",
@@ -799,7 +917,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Mustang Mach-E",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Ranger ",
@@ -815,7 +935,9 @@
       "year": 2026,
       "make": "Ford",
       "model": "Ranger",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-550 ",
@@ -831,13 +953,16 @@
       "year": 2026,
       "make": "Ford",
       "model": "F-550",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Transit Cargo Van ",
       "vin": "1FTBF6XG4TKA34528",
       "stock": 13330611,
       "color": "White",
+      "trim": "Van",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/b034646811b3.html",
       "source_url": "https://www.terracetotemford.ca/new/2026-Ford-Transit_Cargo_Van.html",
       "dealer_url": "https://www.terracetotemford.ca/new/2026-Ford-Transit_Cargo_Van.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -846,14 +971,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Transit Cargo Van",
-      "condition": "new"
+      "model": "Transit Cargo",
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Big Bendin Terrace",
       "vin": "1FMEE7BH4TLA75592",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Big Bendin Terrace",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/a31e34828d01.html",
       "source_url": "https://www.terracetotemford.ca/new/inventory/2026-Ford-Bronco-id13856684.html",
       "dealer_url": "https://www.terracetotemford.ca/new/inventory/2026-Ford-Bronco-id13856684.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -862,14 +990,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Big Bendin Terrace",
-      "condition": "new"
+      "model": "Bronco",
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Outer Banksin Terrace",
       "vin": "1FMEE8BP6TLA89202",
       "stock": "NUMBER",
       "color": "Red",
+      "trim": "Outer Banksin Terrace",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/1b11f6b7805c.html",
       "source_url": "https://www.terracetotemford.ca/new/inventory/2026-Ford-Bronco-id13953153.html",
       "dealer_url": "https://www.terracetotemford.ca/new/inventory/2026-Ford-Bronco-id13953153.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -878,14 +1009,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Outer Banksin Terrace",
-      "condition": "new"
+      "model": "Bronco",
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Outer Banksin Terrace",
       "vin": "1FMEE8BP7TLB30789",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Outer Banksin Terrace",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/69dd9ba6569a.html",
       "source_url": "https://www.terracetotemford.ca/new/inventory/2026-Ford-Bronco-id14183615.html",
       "dealer_url": "https://www.terracetotemford.ca/new/inventory/2026-Ford-Bronco-id14183615.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -895,14 +1029,17 @@
       "odometer_km": 1412,
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Outer Banksin Terrace",
-      "condition": "new"
+      "model": "Bronco",
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Big Bendin Terrace",
       "vin": "1FMEE7BH0TLB40664",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Big Bendin Terrace",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/af281b236c2d.html",
       "source_url": "https://www.terracetotemford.ca/new/inventory/2026-Ford-Bronco-id14340384.html",
       "dealer_url": "https://www.terracetotemford.ca/new/inventory/2026-Ford-Bronco-id14340384.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -911,14 +1048,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Big Bendin Terrace",
-      "condition": "new"
+      "model": "Bronco",
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Bronco Outer Banksin Terrace",
       "vin": "1FMEE8BP7TLB30212",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Outer Banksin Terrace",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/7af344f74bba.html",
       "source_url": "https://www.terracetotemford.ca/new/inventory/2026-Ford-Bronco-id14407455.html",
       "dealer_url": "https://www.terracetotemford.ca/new/inventory/2026-Ford-Bronco-id14407455.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -927,14 +1067,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Bronco Outer Banksin Terrace",
-      "condition": "new"
+      "model": "Bronco",
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Explorer Tremorin Terrace",
       "vin": "1FMWK8JC0TGC46632",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Tremorin Terrace",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/198f6849fad8.html",
       "source_url": "https://www.terracetotemford.ca/new/inventory/2026-Ford-Explorer-id14129835.html",
       "dealer_url": "https://www.terracetotemford.ca/new/inventory/2026-Ford-Explorer-id14129835.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -943,14 +1086,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Explorer Tremorin Terrace",
-      "condition": "new"
+      "model": "Explorer",
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 XLTin Terrace",
       "vin": "1FTFW3L86TKD64525",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "XLTin Terrace",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/6eeb14da5a2a.html",
       "source_url": "https://www.terracetotemford.ca/new/inventory/2026-Ford-F_150-id13730723.html",
       "dealer_url": "https://www.terracetotemford.ca/new/inventory/2026-Ford-F_150-id13730723.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -959,14 +1105,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "F-150 XLTin Terrace",
-      "condition": "new"
+      "model": "F-150",
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 XLTin Terrace",
       "vin": "1FTFX3L54TKD51341",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "XLTin Terrace",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/a415f3ec6d20.html",
       "source_url": "https://www.terracetotemford.ca/new/inventory/2026-Ford-F_150-id13758040.html",
       "dealer_url": "https://www.terracetotemford.ca/new/inventory/2026-Ford-F_150-id13758040.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -975,13 +1124,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "F-150 XLTin Terrace",
-      "condition": "new"
+      "model": "F-150",
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 XLTin Terrace",
       "vin": "1FTFW3L89TFA74207",
       "stock": "NUMBER",
+      "trim": "XLTin Terrace",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/dff91766a389.html",
       "source_url": "https://www.terracetotemford.ca/new/inventory/2026-Ford-F_150-id13828671.html",
       "dealer_url": "https://www.terracetotemford.ca/new/inventory/2026-Ford-F_150-id13828671.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -990,13 +1142,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "F-150 XLTin Terrace",
-      "condition": "new"
+      "model": "F-150",
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 XLTin Terrace",
       "vin": "1FTFW3L86TKD65822",
       "stock": "NUMBER",
+      "trim": "XLTin Terrace",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/960f43b93c0a.html",
       "source_url": "https://www.terracetotemford.ca/new/inventory/2026-Ford-F_150-id13862742.html",
       "dealer_url": "https://www.terracetotemford.ca/new/inventory/2026-Ford-F_150-id13862742.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1005,14 +1160,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "F-150 XLTin Terrace",
-      "condition": "new"
+      "model": "F-150",
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 XLTin Terrace",
       "vin": "1FTFW3L58TKE27016",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "XLTin Terrace",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/6a69349c78c0.html",
       "source_url": "https://www.terracetotemford.ca/new/inventory/2026-Ford-F_150-id13953155.html",
       "dealer_url": "https://www.terracetotemford.ca/new/inventory/2026-Ford-F_150-id13953155.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1021,14 +1179,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "F-150 XLTin Terrace",
-      "condition": "new"
+      "model": "F-150",
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 XLTin Terrace",
       "vin": "1FTFW3L81TKE10357",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "XLTin Terrace",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/93a2293532e9.html",
       "source_url": "https://www.terracetotemford.ca/new/inventory/2026-Ford-F_150-id14062696.html",
       "dealer_url": "https://www.terracetotemford.ca/new/inventory/2026-Ford-F_150-id14062696.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1037,14 +1198,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "F-150 XLTin Terrace",
-      "condition": "new"
+      "model": "F-150",
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 XLTin Terrace",
       "vin": "1FTFW3L53TKE55127",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "XLTin Terrace",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/3df63ea5cdb9.html",
       "source_url": "https://www.terracetotemford.ca/new/inventory/2026-Ford-F_150-id14183613.html",
       "dealer_url": "https://www.terracetotemford.ca/new/inventory/2026-Ford-F_150-id14183613.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1053,14 +1217,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "F-150 XLTin Terrace",
-      "condition": "new"
+      "model": "F-150",
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 XLTin Terrace",
       "vin": "1FTFW3L85TKE59545",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "XLTin Terrace",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/f16f5a13f967.html",
       "source_url": "https://www.terracetotemford.ca/new/inventory/2026-Ford-F_150-id14251427.html",
       "dealer_url": "https://www.terracetotemford.ca/new/inventory/2026-Ford-F_150-id14251427.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1069,14 +1236,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "F-150 XLTin Terrace",
-      "condition": "new"
+      "model": "F-150",
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 XLTin Terrace",
       "vin": "1FTFW3L83TKE97873",
       "stock": "NUMBER",
       "color": "Red",
+      "trim": "XLTin Terrace",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/93a3bf42559b.html",
       "source_url": "https://www.terracetotemford.ca/new/inventory/2026-Ford-F_150-id14314054.html",
       "dealer_url": "https://www.terracetotemford.ca/new/inventory/2026-Ford-F_150-id14314054.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1085,14 +1255,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "F-150 XLTin Terrace",
-      "condition": "new"
+      "model": "F-150",
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 Tremorin Terrace",
       "vin": "1FTFW4L57TFC05968",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "Tremorin Terrace",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/436a60e33906.html",
       "source_url": "https://www.terracetotemford.ca/new/inventory/2026-Ford-F_150-id14347034.html",
       "dealer_url": "https://www.terracetotemford.ca/new/inventory/2026-Ford-F_150-id14347034.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1101,14 +1274,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "F-150 Tremorin Terrace",
-      "condition": "new"
+      "model": "F-150",
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 Raptorin Terrace",
       "vin": "1FTFW1RJ6TFC05124",
       "stock": "NUMBER",
       "color": "Green",
+      "trim": "Raptorin Terrace",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/ec1ce5ba601a.html",
       "source_url": "https://www.terracetotemford.ca/new/inventory/2026-Ford-F_150-id14354868.html",
       "dealer_url": "https://www.terracetotemford.ca/new/inventory/2026-Ford-F_150-id14354868.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1117,14 +1293,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "F-150 Raptorin Terrace",
-      "condition": "new"
+      "model": "F-150",
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 XLTin Terrace",
       "vin": "1FTFW3L89TKF02445",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "XLTin Terrace",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/6131147efb78.html",
       "source_url": "https://www.terracetotemford.ca/new/inventory/2026-Ford-F_150-id14438362.html",
       "dealer_url": "https://www.terracetotemford.ca/new/inventory/2026-Ford-F_150-id14438362.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1133,14 +1312,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "F-150 XLTin Terrace",
-      "condition": "new"
+      "model": "F-150",
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-150 Hybrid XLTin Terrace",
       "vin": "1FTFW3LD9TFA09080",
       "stock": "NUMBER",
       "color": "Silver",
+      "trim": "XLTin Terrace",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/302e2641bd7e.html",
       "source_url": "https://www.terracetotemford.ca/new/inventory/2026-Ford-F_150_Hybrid-id13432624.html",
       "dealer_url": "https://www.terracetotemford.ca/new/inventory/2026-Ford-F_150_Hybrid-id13432624.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1150,14 +1332,17 @@
       "odometer_km": 2779,
       "year": 2026,
       "make": "Ford",
-      "model": "F-150 Hybrid XLTin Terrace",
-      "condition": "new"
+      "model": "F-150 Hybrid",
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-550 XLTin Terrace",
       "vin": "1FD0W5HT2TED96798",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "XLTin Terrace",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/5d1a53e46375.html",
       "source_url": "https://www.terracetotemford.ca/new/inventory/2026-Ford-F_550-id13617951.html",
       "dealer_url": "https://www.terracetotemford.ca/new/inventory/2026-Ford-F_550-id13617951.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1166,14 +1351,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "F-550 XLTin Terrace",
-      "condition": "new"
+      "model": "F-550",
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2026 Ford F-550 XLin Terrace",
       "vin": "1FDSW5HT6TEE61029",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "XLin Terrace",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/ec8e0cd7ea54.html",
       "source_url": "https://www.terracetotemford.ca/new/inventory/2026-Ford-F_550-id14061767.html",
       "dealer_url": "https://www.terracetotemford.ca/new/inventory/2026-Ford-F_550-id14061767.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1182,13 +1370,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "F-550 XLin Terrace",
-      "condition": "new"
+      "model": "F-550",
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Ranger Raptorin Terrace",
       "vin": "1FTER4LR9TLE38421",
       "stock": "NUMBER",
+      "trim": "Raptorin Terrace",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/1f94eed3b34c.html",
       "source_url": "https://www.terracetotemford.ca/new/inventory/2026-Ford-Ranger-id14407453.html",
       "dealer_url": "https://www.terracetotemford.ca/new/inventory/2026-Ford-Ranger-id14407453.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1197,14 +1388,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Ranger Raptorin Terrace",
-      "condition": "new"
+      "model": "Ranger",
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Transit Cargo Van Basein Terrace",
       "vin": "1FTBF6XG4TKA34528",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Van Basein Terrace",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/b3a5a315f8ec.html",
       "source_url": "https://www.terracetotemford.ca/new/inventory/2026-Ford-Transit_Cargo_Van-id13330611.html",
       "dealer_url": "https://www.terracetotemford.ca/new/inventory/2026-Ford-Transit_Cargo_Van-id13330611.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1213,14 +1407,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Transit Cargo Van Basein Terrace",
-      "condition": "new"
+      "model": "Transit Cargo",
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2026 Ford Transit Passenger Wagon XLTin Terrace",
       "vin": "1FBAX9XG7TKB43127",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "XLTin Terrace",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/83fdaee92e01.html",
       "source_url": "https://www.terracetotemford.ca/new/inventory/2026-Ford-Transit_Passenger_Wagon-id14359335.html",
       "dealer_url": "https://www.terracetotemford.ca/new/inventory/2026-Ford-Transit_Passenger_Wagon-id14359335.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1229,8 +1426,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Ford",
-      "model": "Transit Passenger Wagon XLTin Terrace",
-      "condition": "new"
+      "model": "Transit",
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Expedition ",
@@ -1245,7 +1444,9 @@
       "year": 2027,
       "make": "Ford",
       "model": "Expedition",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Explorer ",
@@ -1261,7 +1462,9 @@
       "year": 2027,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Super Duty ",
@@ -1277,7 +1480,9 @@
       "year": 2027,
       "make": "Ford",
       "model": "Super Duty",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Transit ",
@@ -1293,7 +1498,9 @@
       "year": 2027,
       "make": "Ford",
       "model": "Transit",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Transit ",
@@ -1309,7 +1516,9 @@
       "year": 2027,
       "make": "Ford",
       "model": "Transit",
-      "condition": "used"
+      "condition": "used",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Expedition ",
@@ -1324,7 +1533,9 @@
       "year": 2027,
       "make": "Ford",
       "model": "Expedition",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Explorer ",
@@ -1340,7 +1551,9 @@
       "year": 2027,
       "make": "Ford",
       "model": "Explorer",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Super Duty ",
@@ -1356,7 +1569,9 @@
       "year": 2027,
       "make": "Ford",
       "model": "Super Duty",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Transit ",
@@ -1372,7 +1587,9 @@
       "year": 2027,
       "make": "Ford",
       "model": "Transit",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Transit ",
@@ -1388,12 +1605,15 @@
       "year": 2027,
       "make": "Ford",
       "model": "Transit",
-      "condition": "new"
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Expedition Platinum Maxin Terrace",
       "vin": "1FMJK1M84VEA00612",
       "stock": "NUMBER",
+      "trim": "Platinum Maxin Terrace",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/9bdfe19d667e.html",
       "source_url": "https://www.terracetotemford.ca/new/inventory/2027-Ford-Expedition-id14097137.html",
       "dealer_url": "https://www.terracetotemford.ca/new/inventory/2027-Ford-Expedition-id14097137.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1402,14 +1622,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ford",
-      "model": "Expedition Platinum Maxin Terrace",
-      "condition": "new"
+      "model": "Expedition",
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Explorer St-Linein Terrace",
       "vin": "1FMUK8KH5VGA07310",
       "stock": "NUMBER",
       "color": "Red",
+      "trim": "St-Linein Terrace",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/5fca79b4d526.html",
       "source_url": "https://www.terracetotemford.ca/new/inventory/2027-Ford-Explorer-id14380349.html",
       "dealer_url": "https://www.terracetotemford.ca/new/inventory/2027-Ford-Explorer-id14380349.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1418,14 +1641,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ford",
-      "model": "Explorer St-Linein Terrace",
-      "condition": "new"
+      "model": "Explorer",
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Explorer St-Linein Terrace",
       "vin": "1FMUK8KH7VGA06837",
       "stock": "NUMBER",
       "color": "Blue",
+      "trim": "St-Linein Terrace",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/5768e64f14b6.html",
       "source_url": "https://www.terracetotemford.ca/new/inventory/2027-Ford-Explorer-id14380350.html",
       "dealer_url": "https://www.terracetotemford.ca/new/inventory/2027-Ford-Explorer-id14380350.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1434,14 +1660,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ford",
-      "model": "Explorer St-Linein Terrace",
-      "condition": "new"
+      "model": "Explorer",
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Explorer Tremorin Terrace",
       "vin": "1FMUK8JH4VGA05467",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "Tremorin Terrace",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/c3f9eeb16850.html",
       "source_url": "https://www.terracetotemford.ca/new/inventory/2027-Ford-Explorer-id14380351.html",
       "dealer_url": "https://www.terracetotemford.ca/new/inventory/2027-Ford-Explorer-id14380351.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1450,14 +1679,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ford",
-      "model": "Explorer Tremorin Terrace",
-      "condition": "new"
+      "model": "Explorer",
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Explorer Platinumin Terrace",
       "vin": "1FMUK8HH2VGA06509",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Platinumin Terrace",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/cf3f25b06beb.html",
       "source_url": "https://www.terracetotemford.ca/new/inventory/2027-Ford-Explorer-id14380352.html",
       "dealer_url": "https://www.terracetotemford.ca/new/inventory/2027-Ford-Explorer-id14380352.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1466,14 +1698,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ford",
-      "model": "Explorer Platinumin Terrace",
-      "condition": "new"
+      "model": "Explorer",
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Explorer Platinumin Terrace",
       "vin": "1FMUK8HH4VGA26888",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Platinumin Terrace",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/84bc411b7ab7.html",
       "source_url": "https://www.terracetotemford.ca/new/inventory/2027-Ford-Explorer-id14405381.html",
       "dealer_url": "https://www.terracetotemford.ca/new/inventory/2027-Ford-Explorer-id14405381.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1482,13 +1717,16 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ford",
-      "model": "Explorer Platinumin Terrace",
-      "condition": "new"
+      "model": "Explorer",
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Explorer STin Terrace",
       "vin": "1FMWK8GC6VGA06348",
       "stock": "NUMBER",
+      "trim": "STin Terrace",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/c82ed7339811.html",
       "source_url": "https://www.terracetotemford.ca/new/inventory/2027-Ford-Explorer-id14407456.html",
       "dealer_url": "https://www.terracetotemford.ca/new/inventory/2027-Ford-Explorer-id14407456.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1497,14 +1735,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ford",
-      "model": "Explorer STin Terrace",
-      "condition": "new"
+      "model": "Explorer",
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Super Duty F-350Â® Platinumin Terrace",
       "vin": "1FT8W3BMXVEC16483",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "F-350Â® Platinumin Terrace",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/c5cd8572bc8b.html",
       "source_url": "https://www.terracetotemford.ca/new/inventory/2027-Ford-Super_Duty-id14393054.html",
       "dealer_url": "https://www.terracetotemford.ca/new/inventory/2027-Ford-Super_Duty-id14393054.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1513,14 +1754,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ford",
-      "model": "Super Duty F-350Â® Platinumin Terrace",
-      "condition": "new"
+      "model": "Super Duty",
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Super Duty F-350 SRW XLin Terrace",
       "vin": "1FT8W3BN1VEC19054",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "F-350 SRW XLin Terrace",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/9cb73b7eef0c.html",
       "source_url": "https://www.terracetotemford.ca/new/inventory/2027-Ford-Super_Duty_F_350_SRW-id14398573.html",
       "dealer_url": "https://www.terracetotemford.ca/new/inventory/2027-Ford-Super_Duty_F_350_SRW-id14398573.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1529,14 +1773,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ford",
-      "model": "Super Duty F-350 SRW XLin Terrace",
-      "condition": "new"
+      "model": "Super Duty",
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Super Duty F-350 SRW Platinumin Terrace",
       "vin": "1FT8W3BMXVEC17150",
       "stock": "NUMBER",
       "color": "Grey",
+      "trim": "F-350 SRW Platinumin Terrace",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/d56f5f03394d.html",
       "source_url": "https://www.terracetotemford.ca/new/inventory/2027-Ford-Super_Duty_F_350_SRW-id14407452.html",
       "dealer_url": "https://www.terracetotemford.ca/new/inventory/2027-Ford-Super_Duty_F_350_SRW-id14407452.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1545,14 +1792,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ford",
-      "model": "Super Duty F-350 SRW Platinumin Terrace",
-      "condition": "new"
+      "model": "Super Duty",
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Transit Passenger Van Xlin Terrace",
       "vin": "1FBVU5XGXVKA00680",
       "stock": "NUMBER",
       "color": "Black",
+      "trim": "Van Xlin Terrace",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/68dce99c0b83.html",
       "source_url": "https://www.terracetotemford.ca/new/inventory/2027-Ford-Transit-id14380354.html",
       "dealer_url": "https://www.terracetotemford.ca/new/inventory/2027-Ford-Transit-id14380354.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1561,14 +1811,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ford",
-      "model": "Transit Passenger Van Xlin Terrace",
-      "condition": "new"
+      "model": "Transit",
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     },
     {
       "name": "2027 Ford Transit Cargo Vanin Terrace",
       "vin": "1FTBR1C84VKA24240",
       "stock": "NUMBER",
       "color": "White",
+      "trim": "Vanin Terrace",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/817c5fbcc4f3.html",
       "source_url": "https://www.terracetotemford.ca/new/inventory/2027-Ford-Transit-id14414292.html",
       "dealer_url": "https://www.terracetotemford.ca/new/inventory/2027-Ford-Transit-id14414292.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1577,8 +1830,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Ford",
-      "model": "Transit Cargo Vanin Terrace",
-      "condition": "new"
+      "model": "Transit Cargo",
+      "condition": "new",
+      "city": "Kitimat",
+      "province": "BC"
     }
   ]
 }
