@@ -1,16 +1,48 @@
 {
   "dealership": "Snow Valley Ford Sales",
-  "generated_at": "2026-10-25T14:11:08",
-  "vehicle_count": 129,
+  "generated_at": "2026-10-25T14:13:52",
+  "vehicle_count": 133,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "New 2026 Ford F-150 XLTin Terrace",
+      "vin": "1FTFW3L82TKE54870",
+      "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/7c2102e14acd.html",
+      "condition": "new",
+      "price": 74465.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 STXin Terrace",
+      "vin": "1FTFW2L84TKE97181",
+      "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/94dbc589f516.html",
+      "condition": "new",
+      "price": 73745.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 XLTin Terrace",
+      "vin": "1FTFW3L83TKE97873",
+      "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/3aef132490d1.html",
+      "condition": "new",
+      "price": 77570.0,
+      "price_currency": "CAD"
+    },
     {
       "name": "New 2026 Ford F-150 Lariatin Terrace",
       "vin": "1FTFW5L82TFC48095",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/aabca59d2b8f.html",
       "condition": "new",
       "price": 90650.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 Tremorin Terrace",
+      "vin": "1FTFW4L58TFC18759",
+      "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/a6d2abca88c4.html",
+      "condition": "new",
+      "price": 102070.0,
       "price_currency": "CAD"
     },
     {
