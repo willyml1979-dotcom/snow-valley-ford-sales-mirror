@@ -1,7 +1,7 @@
 {
   "dealership": "Snow Valley Ford Sales",
-  "generated_at": "2026-10-25T23:49:48",
-  "vehicle_count": 131,
+  "generated_at": "2026-10-26T08:22:05",
+  "vehicle_count": 129,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -243,17 +243,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 RAM 1500 Rebelin Terrace",
-      "vin": "1C6SRFLT5NN474955",
-      "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/used/4d942066b679.html",
-      "year": 2022,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "used",
-      "price": 52999.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 RAM 1500 ",
       "vin": "1C6SRFLT5NN474955",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/f626f21d95b4.html",
@@ -312,17 +301,6 @@
       "name": "2023 Ford Maverick XLTin Terrace",
       "vin": "3FTTW8F90PRA05094",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/used/48cc903d9e70.html",
-      "year": 2023,
-      "make": "Ford",
-      "model": "Maverick",
-      "condition": "used",
-      "price": 34999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Ford Maverick ",
-      "vin": "3FTTW8F90PRA05094",
-      "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/used/8de374708c59.html",
       "year": 2023,
       "make": "Ford",
       "model": "Maverick",
