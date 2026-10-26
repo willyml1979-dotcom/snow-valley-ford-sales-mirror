@@ -1,7 +1,7 @@
 {
   "dealership": "Snow Valley Ford Sales",
-  "generated_at": "2026-10-26T08:22:05",
-  "vehicle_count": 129,
+  "generated_at": "2026-10-26T08:23:27",
+  "vehicle_count": 128,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -128,17 +128,6 @@
       "year": 2019,
       "make": "Ford",
       "model": "Transit Passenger Wagon",
-      "condition": "new",
-      "price": 37999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Ford F-150 ",
-      "vin": "1FTFW1E51LKE52793",
-      "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/5b6b10a602bf.html",
-      "year": 2020,
-      "make": "Ford",
-      "model": "F-150",
       "condition": "new",
       "price": 37999.0,
       "price_currency": "CAD"
