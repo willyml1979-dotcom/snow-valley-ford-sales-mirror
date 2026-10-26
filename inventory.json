@@ -1,7 +1,7 @@
 {
   "dealership": "Snow Valley Ford Sales",
-  "generated_at": "2026-10-25T23:48:29",
-  "vehicle_count": 132,
+  "generated_at": "2026-10-25T23:49:48",
+  "vehicle_count": 131,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -130,17 +130,6 @@
       "model": "Transit Passenger Wagon",
       "condition": "new",
       "price": 37999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Honda Civic ",
-      "vin": "SHHFK7H30KU303651",
-      "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/1b34823ded7f.html",
-      "year": 2019,
-      "make": "Honda",
-      "model": "Civic",
-      "condition": "new",
-      "price": 18999.0,
       "price_currency": "CAD"
     },
     {
