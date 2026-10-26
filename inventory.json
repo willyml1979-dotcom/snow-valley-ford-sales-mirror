@@ -1,7 +1,7 @@
 {
   "dealership": "Snow Valley Ford Sales",
-  "generated_at": "2026-10-25T14:13:52",
-  "vehicle_count": 133,
+  "generated_at": "2026-10-25T23:48:29",
+  "vehicle_count": 132,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -257,17 +257,6 @@
       "name": "2022 RAM 1500 Rebelin Terrace",
       "vin": "1C6SRFLT5NN474955",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/used/4d942066b679.html",
-      "year": 2022,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "used",
-      "price": 52999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 RAM 1500 ",
-      "vin": "1C6SRFLT5NN474955",
-      "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/used/f626f21d95b4.html",
       "year": 2022,
       "make": "RAM",
       "model": "1500",
