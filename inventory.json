@@ -1,7 +1,7 @@
 {
   "dealership": "Snow Valley Ford Sales",
-  "generated_at": "2026-11-17T10:00:05",
-  "vehicle_count": 133,
+  "generated_at": "2026-11-17T10:08:18",
+  "vehicle_count": 146,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -103,17 +103,6 @@
       "make": "Ford",
       "model": "Escape",
       "condition": "used",
-      "price": 24995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Ford Escape ",
-      "vin": "1FMCU9G65MUA76565",
-      "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/994050b17056.html",
-      "year": 2021,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "new",
       "price": 24995.0,
       "price_currency": "CAD"
     },
@@ -709,17 +698,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Bronco Big Bendin Terrace",
-      "vin": "1FMEE7BH4TLA75592",
-      "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/a31e34828d01.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Bronco",
-      "condition": "new",
-      "price": 64718.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Ford Bronco Outer Banksin Terrace",
       "vin": "1FMEE8BP6TLA89202",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/1b11f6b7805c.html",
@@ -761,17 +739,6 @@
       "model": "Bronco",
       "condition": "new",
       "price": 88570.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Explorer Tremorin Terrace",
-      "vin": "1FMWK8JC0TGC46632",
-      "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/198f6849fad8.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Explorer",
-      "condition": "new",
-      "price": 68026.0,
       "price_currency": "CAD"
     },
     {
@@ -863,6 +830,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Ford F-150 STXin Terrace",
+      "vin": "1FTEW2LPXTKE54807",
+      "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/54e5f62c6081.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "new",
+      "price": 71210.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2026 Ford F-150 XLTin Terrace",
       "vin": "1FTFW3L82TKE54870",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/7c2102e14acd.html",
@@ -871,6 +849,17 @@
       "model": "F-150",
       "condition": "new",
       "price": 74465.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 STXin Terrace",
+      "vin": "1FTEW2LP6TKE51208",
+      "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/c5608b13132f.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "new",
+      "price": 68385.0,
       "price_currency": "CAD"
     },
     {
@@ -1047,6 +1036,72 @@
       "model": "F-150",
       "condition": "new",
       "price": 102070.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 Tremorin Terrace",
+      "vin": "1FTFW4L50TFC20179",
+      "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/2c29e7e09e63.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "new",
+      "price": 88300.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 Tremorin Terrace",
+      "vin": "1FTFW4L59TFC19354",
+      "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/6933e12bf86a.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "new",
+      "price": 90075.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 Tremorin Terrace",
+      "vin": "1FTFW4L5XTFC18780",
+      "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/d2b298a6db39.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "new",
+      "price": 101320.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 XLTin Terrace",
+      "vin": "1FTFW3L85TKF40349",
+      "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/44feb3bb7184.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "new",
+      "price": 83455.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 STXin Terrace",
+      "vin": "1FTFW2L8XTKF21905",
+      "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/fbde21d59882.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "new",
+      "price": 72645.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Ford F-150 Lariatin Terrace",
+      "vin": "1FTFW5L82TFC48095",
+      "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/8bbaf0bfb79b.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "new",
+      "price": 97900.0,
       "price_currency": "CAD"
     },
     {
@@ -1347,6 +1402,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2027 Ford Explorer Tremorin Terrace",
+      "vin": "1FMWK8JC3VGA35749",
+      "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/c8983c3e7d6b.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "Explorer",
+      "condition": "new",
+      "price": 76692.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 Ford Super Duty F-350Â® Platinumin Terrace",
       "vin": "1FT8W3BMXVEC16483",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/c5cd8572bc8b.html",
@@ -1366,6 +1432,39 @@
       "model": "Super Duty",
       "condition": "new",
       "price": 117183.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Ford Super Duty F-350® Xlin Terrace",
+      "vin": "2FT8W3BN5VBA02201",
+      "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/e11bf203e02a.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "Super Duty",
+      "condition": "new",
+      "price": 80204.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Ford Super Duty F-350® xltin Terrace",
+      "vin": "2FT8W3BN7VBA02376",
+      "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/72af6f241e3c.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "Super Duty",
+      "condition": "new",
+      "price": 82950.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Ford Super Duty F-350® xltin Terrace",
+      "vin": "2FT8W3BN8VBA03973",
+      "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/6474beb268cc.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "Super Duty",
+      "condition": "new",
+      "price": 85050.0,
       "price_currency": "CAD"
     },
     {
@@ -1402,6 +1501,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2027 Ford Super Duty F-350 SRW Lariatin Terrace",
+      "vin": "1FT8W3BM1VEC37495",
+      "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/9171a93fe234.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "Super Duty",
+      "condition": "new",
+      "price": 119683.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 Ford Transit Passenger Van Xlin Terrace",
       "vin": "1FBVU5XGXVKA00680",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/68dce99c0b83.html",
@@ -1435,6 +1545,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2027 Ford Transit Cargo Van Basein Terrace",
+      "vin": "1FTBR2X85VKA03302",
+      "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/34ff0a9a0841.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "Transit Cargo",
+      "condition": "new",
+      "price": 76825.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Ford Transit Cargo Van Basein Terrace",
+      "vin": "1FTBR1C84VKA24240",
+      "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/d77967191f97.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "Transit Cargo",
+      "condition": "new",
+      "price": 70570.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2027 Ford Transit Passenger Wagon XLin Terrace",
       "vin": "1FBVU5XGXVKA00680",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/4f0c4f850e37.html",
@@ -1443,6 +1575,17 @@
       "model": "Transit",
       "condition": "new",
       "price": 92645.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Ford Transit Passenger Wagon XLin Terrace",
+      "vin": "1FBAX9X85VKA21765",
+      "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/c57f80ae935e.html",
+      "year": 2027,
+      "make": "Ford",
+      "model": "Transit",
+      "condition": "new",
+      "price": 88535.0,
       "price_currency": "CAD"
     }
   ]
