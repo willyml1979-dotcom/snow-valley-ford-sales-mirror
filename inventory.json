@@ -1,7 +1,7 @@
 {
   "dealership": "Snow Valley Ford Sales",
-  "generated_at": "2026-11-17T10:08:18",
-  "vehicle_count": 146,
+  "generated_at": "2026-11-18T01:10:29",
+  "vehicle_count": 143,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -498,44 +498,13 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2026 Ford Super Duty F-350 DRWin Terrace, near Kitimat",
-      "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/used/532061859147.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Super Duty",
-      "condition": "used",
-      "price": 63280.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford Super Duty F-350 SRWin Terrace, near Kitimat",
-      "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/used/1ac6f2061f9b.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "Super Duty",
-      "condition": "used",
-      "price": 62534.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Ford F-550 ",
-      "vin": "1FD0W5HT2TED96798",
-      "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/used/d4f1479b565f.html",
-      "year": 2026,
-      "make": "Ford",
-      "model": "F-550",
-      "condition": "used",
-      "price": 103615.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2026 Ford Transit Cargo Vanin Terrace, near Kitimat",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/used/b034646811b3.html",
       "year": 2026,
       "make": "Ford",
       "model": "Transit Cargo",
       "condition": "used",
-      "price": 59995.0,
+      "price": 59495.0,
       "price_currency": "CAD"
     },
     {
@@ -1171,26 +1140,22 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2027 Ford Expedition ",
+      "name": "2027 Ford Expeditionin Terrace, near Kitimat",
       "vin": "1FMJK1M84VEA00612",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/used/04f88d8f9a39.html",
       "year": 2027,
       "make": "Ford",
-      "model": "Expedition",
-      "condition": "used",
-      "price": 106895.0,
-      "price_currency": "CAD"
+      "model": "Expeditionin Terrace, near Kitimat",
+      "condition": "used"
     },
     {
-      "name": "2027 Ford Explorer ",
+      "name": "2027 Ford Explorerin Terrace, near Kitimat",
       "vin": "1FMUK8KH8VGA07172",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/used/777bf2a29be5.html",
       "year": 2027,
       "make": "Ford",
-      "model": "Explorer",
-      "condition": "used",
-      "price": 64365.0,
-      "price_currency": "CAD"
+      "model": "Explorerin Terrace, near Kitimat",
+      "condition": "used"
     },
     {
       "name": "2027 Ford Super Duty F-350 SRW ",

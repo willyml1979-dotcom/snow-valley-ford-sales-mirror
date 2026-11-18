@@ -1,6 +1,6 @@
 # Snow Valley Ford Sales
 
- dealership in Kitimat. AI-readable inventory mirror, about 146 vehicles.
+ dealership in Kitimat. AI-readable inventory mirror, about 143 vehicles.
 
 - Official website: https://www.terracetotemford.ca/
 - Used vehicles: https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/used/
