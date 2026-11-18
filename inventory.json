@@ -1,7 +1,7 @@
 {
   "dealership": "Snow Valley Ford Sales",
-  "generated_at": "2026-11-18T01:10:29",
-  "vehicle_count": 143,
+  "generated_at": "2026-11-18T01:16:00",
+  "vehicle_count": 141,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -27,6 +27,14 @@
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/used/fabc9fc37202.html",
       "condition": "used",
       "price": 79999.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Bronco Sport 2023 for salein Terrace, near Kitimat",
+      "vin": "3FMCR9A68PRD94993",
+      "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/afadb4c4940b.html",
+      "condition": "new",
+      "price": 31995.0,
       "price_currency": "CAD"
     },
     {
@@ -162,28 +170,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 Ford Bronco ",
-      "vin": "1FMEE5BPXNLB65750",
-      "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/8c56e919bbe6.html",
-      "year": 2022,
-      "make": "Ford",
-      "model": "Bronco",
-      "condition": "new",
-      "price": 44999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 RAM 1500 ",
-      "vin": "1C6SRFLT5NN474955",
-      "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/f626f21d95b4.html",
-      "year": 2022,
-      "make": "RAM",
-      "model": "1500",
-      "condition": "new",
-      "price": 52999.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Ford Bronco Sport Basein Terrace",
       "vin": "3FMCR9A68PRD94993",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/used/fb28592a2f31.html",
@@ -236,17 +222,6 @@
       "model": "F-150",
       "condition": "used",
       "price": 44999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Ford Bronco Sport ",
-      "vin": "3FMCR9A68PRD94993",
-      "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/afadb4c4940b.html",
-      "year": 2023,
-      "make": "Ford",
-      "model": "Bronco Sport",
-      "condition": "new",
-      "price": 31995.0,
       "price_currency": "CAD"
     },
     {
