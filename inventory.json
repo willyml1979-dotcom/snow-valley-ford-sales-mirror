@@ -1,7 +1,7 @@
 {
   "dealership": "Snow Valley Ford Sales",
-  "generated_at": "2026-11-18T01:16:00",
-  "vehicle_count": 141,
+  "generated_at": "2026-11-18T10:25:45",
+  "vehicle_count": 140,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -66,17 +66,6 @@
       "year": 2019,
       "make": "Ford",
       "model": "Transit",
-      "condition": "used",
-      "price": 37999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Ford Transit Passenger Wagon ",
-      "vin": "1FBVU4XG0KKA67536",
-      "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/used/667e671646ef.html",
-      "year": 2019,
-      "make": "Ford",
-      "model": "Transit Passenger Wagon",
       "condition": "used",
       "price": 37999.0,
       "price_currency": "CAD"
@@ -1133,37 +1122,31 @@
       "condition": "used"
     },
     {
-      "name": "2027 Ford Super Duty F-350 SRW ",
+      "name": "2027 Ford Super Duty F-350 SRWin Terrace, near Kitimat",
       "vin": "1FT8W3BN1VEC19054",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/used/92650d88c182.html",
       "year": 2027,
       "make": "Ford",
       "model": "Super Duty",
-      "condition": "used",
-      "price": 80314.0,
-      "price_currency": "CAD"
+      "condition": "used"
     },
     {
-      "name": "2027 Ford Transit ",
-      "vin": "1FTBR1C84VKA24240",
+      "name": "2027 Ford Transit Cargo Vanin Terrace, near Kitimat",
+      "vin": "1FTBR2X85VKA03302",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/used/a8da18eac74c.html",
       "year": 2027,
       "make": "Ford",
-      "model": "Transit",
-      "condition": "used",
-      "price": 70570.0,
-      "price_currency": "CAD"
+      "model": "Transit Cargo",
+      "condition": "used"
     },
     {
-      "name": "2027 Ford Transit ",
+      "name": "2027 Ford Transit Passenger Wagonin Terrace, near Kitimat",
       "vin": "1FBAX9X85VKA21765",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/used/c779156884dd.html",
       "year": 2027,
       "make": "Ford",
       "model": "Transit",
-      "condition": "used",
-      "price": 88535.0,
-      "price_currency": "CAD"
+      "condition": "used"
     },
     {
       "name": "2027 Ford Expedition ",
