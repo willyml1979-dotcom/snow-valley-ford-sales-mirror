@@ -1,10 +1,18 @@
 {
   "dealership": "Snow Valley Ford Sales",
-  "generated_at": "2026-11-18T10:29:50",
-  "vehicle_count": 140,
+  "generated_at": "2026-11-18T20:45:39",
+  "vehicle_count": 136,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "Ford Bronco Sport 2023 for salein Terrace, near Kitimat",
+      "vin": "3FMCR9A68PRD94993",
+      "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/used/afadb4c4940b.html",
+      "condition": "used",
+      "price": 31995.0,
+      "price_currency": "CAD"
+    },
     {
       "name": "GMC Sierra 1500 2023 for salein Terrace, near Kitimat",
       "vin": "3GTUUCED1PG104926",
@@ -19,6 +27,14 @@
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/used/76731920cbde.html",
       "condition": "used",
       "price": 40995.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Jeep Wrangler 2024 for salein Terrace, near Kitimat",
+      "vin": "1C4PJXEN9RW181960",
+      "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/used/d76c721334cc.html",
+      "condition": "used",
+      "price": 42999.0,
       "price_currency": "CAD"
     },
     {
@@ -68,17 +84,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2019 Ford Transit Passenger Wagon XLTin Terrace",
-      "vin": "1FBVU4XG0KKA67536",
-      "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/used/d88df90ab4e6.html",
-      "year": 2019,
-      "make": "Ford",
-      "model": "Transit",
-      "condition": "used",
-      "price": 37999.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2019 Ford Transit Passenger Wagon ",
       "vin": "1FBVU4XG0KKA67536",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/new/667e671646ef.html",
@@ -101,17 +106,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Ford Escape ",
-      "vin": "1FMCU9G65MUA76565",
-      "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/used/994050b17056.html",
-      "year": 2021,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "used",
-      "price": 24995.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2022 Ford Bronco Big Bendin Terrace",
       "vin": "1FMEE5BPXNLB65750",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/used/c336aae1de2f.html",
@@ -126,17 +120,6 @@
       "name": "2022 Ford Bronco Outer Banksin Terrace",
       "vin": "1FMEE5DP9NLB33613",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/used/d8bda2fc6d21.html",
-      "year": 2022,
-      "make": "Ford",
-      "model": "Bronco",
-      "condition": "used",
-      "price": 49999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Ford Bronco ",
-      "vin": "1FMEE5DP9NLB33613",
-      "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/used/8c56e919bbe6.html",
       "year": 2022,
       "make": "Ford",
       "model": "Bronco",
@@ -170,17 +153,6 @@
       "name": "2023 Ford Bronco Sport Basein Terrace",
       "vin": "3FMCR9A68PRD94993",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/used/fb28592a2f31.html",
-      "year": 2023,
-      "make": "Ford",
-      "model": "Bronco Sport",
-      "condition": "used",
-      "price": 31995.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Ford Bronco Sport ",
-      "vin": "3FMCR9A68PRD94993",
-      "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/used/afadb4c4940b.html",
       "year": 2023,
       "make": "Ford",
       "model": "Bronco Sport",
@@ -299,17 +271,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Jeep Wrangler ",
-      "vin": "1C4PJXEN9RW181960",
-      "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/used/d76c721334cc.html",
-      "year": 2024,
-      "make": "Jeep",
-      "model": "Wrangler",
-      "condition": "used",
-      "price": 42999.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 RAM 3500 Laramiein Terrace",
       "vin": "3C63R3EL1RG319172",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/used/3a1a8a52ac57.html",
@@ -324,17 +285,6 @@
       "name": "2025 Honda HR-V Ex-L Naviin Terrace",
       "vin": "3CZRZ2H79SM101249",
       "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/used/97f0274ceda8.html",
-      "year": 2025,
-      "make": "Honda",
-      "model": "HR-V",
-      "condition": "used",
-      "price": 36999.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Honda HR-V ",
-      "vin": "3CZRZ2H79SM101249",
-      "url": "https://willyml1979-dotcom.github.io/snow-valley-ford-sales-mirror/used/1c30e8ea2822.html",
       "year": 2025,
       "make": "Honda",
       "model": "HR-V",
